@@ -12,12 +12,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>  
 
-
-
 — but copy-paste is life 💻😎
 
 - 🔧 Backend & frontend (kinda).
 - 🧠 StackOverflow + ChatGPT = secret weapons.
 - 🎓 Currently studying at **RMUTL** [Official Website](https://www.rmutl.ac.th/)
+- 💬 Contact me on Discord: **mimimii.o**
 
 ![Monthonsova's GitHub stats](https://github-readme-stats.vercel.app/api?username=monthonsova&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
