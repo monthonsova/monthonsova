@@ -1,5 +1,7 @@
 ## Still figuring it out... 😜
 
+![Funny GIF](https://media.giphy.com/media/3o7qEjj45t1XQbR7FS/giphy.gif)
+
 **Script Kiddie** with pro **Google-fu**  
 C, C++, C#, Python, JS, Lua, PHP, HTML — but copy-paste is life 💻😎
 
