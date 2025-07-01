@@ -19,6 +19,7 @@
 - 🎓 Currently studying at **RMUTL** [Official Website](https://www.rmutl.ac.th/)
 - 💬 Contact me on Discord: **mimimii.o**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&layout=compact)
-
-![Monthonsova's GitHub stats](https://github-readme-stats.vercel.app/api?username=monthonsova&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monthonsova&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="48%" />
+</div>
