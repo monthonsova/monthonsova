@@ -18,6 +18,7 @@
 - 💬 Contact me on Discord: **mimimii.o**
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=monthonsova&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=1e1e1e" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&layout=compact&bg_color=1e1e1e&text_color=ffffff&title_color=ffffff" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=monthonsova&theme=dark" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&theme=dark" width="60%" />
+
 </div>
