@@ -11,6 +11,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>  
+
+<img src="https://media.giphy.com/media/3o7qEjj45t1XQbR7FS/giphy.gif" width="50" height="50"/>
+
 — but copy-paste is life 💻😎
 
 - 🔧 Backend & frontend (kinda).
