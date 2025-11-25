@@ -20,10 +20,9 @@
 🎓 Currently studying at <b>RMUTL</b> <a href="https://www.rmutl.ac.th/">Official Website</a><br>
 💬 Contact me on Discord: <b>mimimii.o</b></p>
 
-<!-- GitHub Stats -->
-<img src="https://img.shields.io/badge/GitHub-monthonsova-blue?logo=github" />
-<img src="https://img.shields.io/github/followers/monthonsova?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/monthonsova?style=for-the-badge" />
+<img src="https://github-readme-stats-mjtommassi.vercel.app/api?username=monthonsova&theme=dark" width="60%" />
+<img src="https://github-readme-stats-mjtommassi.vercel.app/api/top-langs/?username=monthonsova&theme=dark" width="60%" />
+
 
 
 </div>
