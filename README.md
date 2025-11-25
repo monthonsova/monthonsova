@@ -21,7 +21,7 @@
 💬 Contact me on Discord: <b>mimimii.o</b></p>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=monthonsova&theme=dark" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&theme=dark" width="60%" />
+<img src="https://github-readme-stats-mjtommassi.vercel.app/api?username=monthonsova&theme=dark" width="60%" />
+<img src="https://github-readme-stats-mjtommassi.vercel.app/api/top-langs/?username=monthonsova&theme=dark" width="60%" />
 
 </div>
